@@ -1,3 +1,3 @@
-# codewars
+# Codewars
 
-add description of playground here
+Just me trying to learn Haskell by doing katas.
