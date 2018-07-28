@@ -18,6 +18,7 @@ library
   exposed-modules:     Kata.CubeFinder
                      , Kata.Dubstep
                      , Kata.TribonacciSequence
+                     , Kata.Reduction
   build-depends:       base >= 4.7 && < 5
                      , split
                      , IfElse >= 0.85 && < 2
