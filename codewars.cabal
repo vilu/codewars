@@ -21,6 +21,7 @@ library
                      , Kata.Reduction
                      , Kata.FindOutlier
                      , Kata.Doubles
+                     , Kata.RailFenceCipher
   build-depends:       base >= 4.7 && < 5
                      , split
                      , IfElse >= 0.85 && < 2
