@@ -22,6 +22,12 @@ library
                      , Kata.FindOutlier
                      , Kata.Doubles
                      , Kata.RailFenceCipher
+                     , Kata.MultNumAsStrings
+                     , Kata.Faberge
+                     , Kata.Calculator
+                     , Kata.SimpleSQLEngine
+                     , Kata.Huffman
+                     , Kata.Sudoku
   build-depends:       base >= 4.7 && < 5
                      , split
                      , IfElse >= 0.85 && < 2
